@@ -1,6 +1,7 @@
-<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
-<h3>Name:Silambarasan K</h3>
-<h3>Register Number: 212221230101</h3>
+<h2 align = center>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h2> 
+<h4>Name:Silambarasan K</h4>
+<h4>Register Number: 212221230101</h4>
+<h4>Date: 15/03/2024 </h4>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game
